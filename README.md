@@ -29,7 +29,7 @@ Plus a research companion for specialist doctors, a legal drafting assistant, an
 ## About me
 
 - Senior PM at **Thomson Reuters**, building AI agents in the CoCounsel ecosystem
-- 9+ years across legal tech, fintech (Entain, 9M+ users), travel, and payments — engineer turned PM
+- 9+ years across legal tech, fintech, gaming, travel,and Ecommerce — engineer turned PM
 - Guest lecturer at **IIMs, ASU, Johns Hopkins, Duke MEM, MDI Gurgaon, Mahindra University, GrowthX, Product Folks, Masters' Union**
 - Invited speaker at **SPM Summit India 2026** (IIM Bangalore)
 - Writing on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-galiveeti-a44335192/) and [Medium](https://medium.com/@gpavancitizen) about AI product management, vibe coding, and what PMs need to unlearn
