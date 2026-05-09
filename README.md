@@ -6,6 +6,10 @@ By day, I build AI-native products at **Thomson Reuters** — launched an MCP se
 
 I think the next generation of PMs will prototype, build, and ship the way engineers do — I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
 
+## 🌐 Open source: GlobalPulse MCP
+
+**[GlobalPulse MCP](https://github.com/gpavan1992/Globalpulse-MCP)** — The first MCP server for institutional-grade global intelligence. 11 tools that give any AI agent instant access to World Bank macroeconomics, UN disaster alerts, Open-Meteo climate data, OpenSky live flight tracking, UN Comtrade bilateral trade flows, and REST Countries enrichment — all from trusted open APIs, no subscriptions, no API keys. Built for legal, ESG, supply chain, and macro research use cases that no existing MCP server serves. ~29 tools across 16 global APIs planned.
+
 ## 🇮🇳 Open source: Bharat MCP
 
 **[Bharat MCP](https://github.com/gpavan1992/Bharat-MCP)** — An open MCP server wrapping India's public API infrastructure. 17 tools that give any AI agent — Claude, GPT, Gemini — instant access to India's government data: PIN codes, GSTIN, mandi prices, AQI, train schedules, CGHS hospitals, fuel prices, and more. No signups, no paywalls. India's DPI, AI-agent ready.
@@ -29,7 +33,7 @@ Plus a research companion for specialist doctors, a legal drafting assistant, an
 ## About me
 
 - Senior PM at **Thomson Reuters**, building AI agents in the CoCounsel ecosystem
-- 9+ years across legal tech, fintech, gaming, travel,and Ecommerce — engineer turned PM
+- 9+ years across legal tech, fintech, gaming, travel, and ecommerce — engineer turned PM
 - Guest lecturer at **IIMs, ASU, Johns Hopkins, Duke MEM, MDI Gurgaon, Mahindra University, GrowthX, Product Folks, Masters' Union**
 - Invited speaker at **SPM Summit India 2026** (IIM Bangalore)
 - Writing on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-galiveeti-a44335192/) and [Medium](https://medium.com/@gpavancitizen) about AI product management, vibe coding, and what PMs need to unlearn
