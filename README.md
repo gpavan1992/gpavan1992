@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Pavan 👋
 
-<!--
-**gpavan1992/gpavan1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a product manager who ships — at work and on weekends.
 
-Here are some ideas to get you started:
+By day, I build AI-native products at **Thomson Reuters** — launched an MCP server and in-app AI assistant for a legal collaboration platform, and now working on agentic workflows across the CoCounsel ecosystem. By night, I vibe-code MVPs solo to understand problems first-hand: idea → live in days, not quarters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think the next generation of PMs will prototype, build, and ship the way engineers do — I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
+
+## 🇮🇳 Open source: Bharat MCP
+
+**[Bharat MCP](https://github.com/gpavan1992/Bharat-MCP)** — An open MCP server wrapping India's public API infrastructure. 17 tools that give any AI agent — Claude, GPT, Gemini — instant access to India's government data: PIN codes, GSTIN, mandi prices, AQI, train schedules, CGHS hospitals, fuel prices, and more. No signups, no paywalls. India's DPI, AI-agent ready.
+
+## MVPs I've shipped solo
+
+I've built across legal, healthcare, sales workflow, and research tooling — each one started with a real problem worth solving. A few I'd point you to:
+
+- **[PositionIQ](https://positioniq-tax-advocate.lovable.app)** — Tax risk brief generator. Built to close the gap between tax research and the structured brief a partner or CFO actually needs.
+- **[SynergyFlow](https://synergyflow-nocode-demo.vercel.app/)** — Full-stack CRM. A study in how far solo + AI can take you on workflow software.
+- **[ApnaSaathi](https://saathi1.lovable.app/)** — AI medical second-opinion companion. Built to explore what trustworthy health AI looks like for Indian families.
+
+Plus a research companion for specialist doctors, a legal drafting assistant, and a few more in flight.
+
+## What I work on
+
+- **At work:** Working on AI agents, MCP servers, and in-app AI assistants for legal professionals across Thomson Reuters' CoCounsel ecosystem
+- **Frameworks I teach:** CSCQSM (structured prompting for builders), Product 3.0 (the AI-native PM playbook)
+- **Workshops & talks:** Vibe coding for PMs, MCP, agentic product design, AI-native development
+
+## About me
+
+- Senior PM at **Thomson Reuters**, building AI agents in the CoCounsel ecosystem
+- 9+ years across legal tech, fintech (Entain, 9M+ users), travel, and payments — engineer turned PM
+- Guest lecturer at **IIMs, ASU, Johns Hopkins, Duke MEM, MDI Gurgaon, Mahindra University, GrowthX, Product Folks, Masters' Union**
+- Invited speaker at **SPM Summit India 2026** (IIM Bangalore)
+- Writing on [LinkedIn](https://www.linkedin.com/in/pavan-kumar-galiveeti-a44335192/) and [Medium](https://medium.com/@gpavancitizen) about AI product management, vibe coding, and what PMs need to unlearn
+
+---
+
+🌱 Building something in AI agents, MCP, or AI-native products? Or a PM making the leap from spec-writing to shipping? Happy to swap notes.
