@@ -6,6 +6,12 @@ By day, I build AI-native products at **Thomson Reuters** — launched an MCP se
 
 I think the next generation of PMs will prototype, build, and ship the way engineers do — I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
 
+### 🩺 Latest build: Nota Health — open source, for the 49% of a doctor's day that isn't spent with patients
+
+Ambient scribes solved the patient visit. Nobody solved everything after — prior authorizations, discharge summaries, insurance appeals, referral letters. **[Nota Health](https://github.com/gpavan1992/nota-health)** is that layer: open source, self-hostable, no vendor lock-in.
+
+[**Live Demo**](https://nota-health-hub-ai.lovable.app/) · [**View on GitHub**](https://github.com/gpavan1992/nota-health) · AGPL-3.0
+
 ## 🌐 Open source: GlobalPulse MCP
 
 **[GlobalPulse MCP](https://github.com/gpavan1992/Globalpulse-MCP)** — The first MCP server for institutional-grade global intelligence. 11 tools that give any AI agent instant access to World Bank macroeconomics, UN disaster alerts, Open-Meteo climate data, OpenSky live flight tracking, UN Comtrade bilateral trade flows, and REST Countries enrichment — all from trusted open APIs, no subscriptions, no API keys. Built for legal, ESG, supply chain, and macro research use cases that no existing MCP server serves. ~29 tools across 16 global APIs planned.
