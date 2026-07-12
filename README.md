@@ -6,11 +6,11 @@ By day, I build AI-native products at **Thomson Reuters** — launched an MCP se
 
 I think the next generation of PMs will prototype, build, and ship the way engineers do — I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
 
-### 🩺 Latest build: Nota Health — open source, for the 49% of a doctor's day that isn't spent with patients
+### 🩺 Open source:: Nota Health — open source, for the 49% of a doctor's day that isn't spent with patients
 
 Ambient scribes solved the patient visit. Nobody solved everything after — prior authorizations, discharge summaries, insurance appeals, referral letters. **[Nota Health](https://github.com/gpavan1992/nota-health)** is that layer: open source, self-hostable, no vendor lock-in.
 
-[**Live Demo**](https://nota-health-hub-ai.lovable.app/) · [**View on GitHub**](https://github.com/gpavan1992/nota-health) · AGPL-3.0
+[**Live Demo**](https://nota-health-hub-ai.lovable.app/) · [**View on GitHub**](https://github.com/gpavan1992/nota-health)
 
 ## 🌐 Open source: GlobalPulse MCP
 
