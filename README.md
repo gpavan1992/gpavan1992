@@ -2,7 +2,7 @@
 
 I'm a product manager who ships — at work and on weekends.
 
-By day, I build AI-native products at **Thomson Reuters** — launched an MCP server and in-app AI assistant for a legal collaboration platform, and now working on agentic workflows across the CoCounsel ecosystem. By night, I vibe-code MVPs solo to understand problems first-hand: idea → live in days, not quarters.
+By day, I build AI-native products at **Thomson Reuters** — launched an MCP server and in-app AI assistant for a legal collaboration platform, and now working on agentic workflows across the CoCounsel legal ecosystem. By night, I vibe-code MVPs solo to understand problems first-hand: idea → live in days, not quarters.
 
 I think the next generation of PMs will prototype, build, and ship the way engineers do — I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
 
