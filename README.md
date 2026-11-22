@@ -4,13 +4,13 @@
 
 # Hi, I'm Pavan 👋
 
-I'm a product manager who ships — at work and on weekends.
+I'm a product manager and solo builder who ships — at work and on weekends.
 
 By day, I'm a **Lead Product Manager at Thomson Reuters**, owning MCP connectivity and marketplace distribution for CoCounsel's Transactional Experience. I launched TR's first MCP server (the first for a legal collaboration platform) and lead the legal vertical launches for TR across the market moments of Claude for Legal, Gemini Enterprise for Legal, OpenAI's Astra for Law and Microsoft Copilot for Legal. On weekends, I'm a solo product builder: I build open-source MCP servers and Claude plugins, and vibe-code MVPs to understand problems first-hand: idea → live in days, not quarters.
 
 I think the next generation of PMs will prototype, build, and ship the way engineers do. I call this **Product 3.0**: Feature Factory → Data-Driven → AI-Native.
 
-## 💼 What I'm building at work
+## 💼 What I'm building at work?
 
 I own the integration layer that connects legal systems of record inbound to CoCounsel, and exposes trusted matter context outbound to AI agents. I work with 16 engineers, from requirements through GTM, customer enablement, security and compliance review, and live demos.
 
