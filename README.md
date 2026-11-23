@@ -37,7 +37,6 @@ I own the integration layer that connects legal systems of record inbound to CoC
 ## 🇮🇳 Claude plugins: Artha and PWP
 
 - **[Artha](https://github.com/gpavan1992/artha-skill)** — Open-source Claude plugin with 8 skills for Indian investors: portfolio X-ray, tax, fund overlap, screening and more. Built on public data, no hosted backend, and it flags the traps in Indian market data (bonus/split EPS, one-off profits) instead of hiding them.
-- **PWP (Project Workflow Protocol)** — Claude plugin, live in the Claude plugin directory. Enforces plan → execute → verify → ship, so AI proposes and you decide before any code gets written.
 
 ## 🇮🇳 Open source: Bharat MCP
 
