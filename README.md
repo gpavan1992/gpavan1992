@@ -34,7 +34,7 @@ I own the integration layer that connects legal systems of record inbound to CoC
 
 [Live demo →](https://nota-health-hub-ai.lovable.app/)
 
-## 🇮🇳 Claude plugins: Artha and PWP
+## 🇮🇳 Claude plugins: Artha
 
 - **[Artha](https://github.com/gpavan1992/artha-skill)** — Open-source Claude plugin with 8 skills for Indian investors: portfolio X-ray, tax, fund overlap, screening and more. Built on public data, no hosted backend, and it flags the traps in Indian market data (bonus/split EPS, one-off profits) instead of hiding them.
 
